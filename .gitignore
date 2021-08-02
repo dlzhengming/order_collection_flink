@@ -1,0 +1,26 @@
+# maven
+target
+.class
+classes
+log
+logs
+
+# mac
+.DS_Store
+
+# idea
+.idea
+*.iml
+
+# eclipse
+.settings
+.classpath
+.project
+.metadata
+RemoteSystemsTempFiles
+
+# maven
+.mvn
+
+# tomcat
+Servers
